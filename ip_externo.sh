@@ -4,10 +4,7 @@
 #By: Ronny L. Bull
 #Modificado por: Gabriel M. Russo	
 
-TO="seu_email@seu_servidor.com"
-FROM="seu_email@seu_servidor.com"
-
-#Arquivo com ip externo
+#Arquivo texto com o ip externo
 IP_FILE="$pwd/ip_externo.txt"
  
 #Ip atual pelo ifconfig.me
