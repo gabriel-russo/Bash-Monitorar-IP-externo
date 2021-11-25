@@ -1,0 +1,5 @@
+To: seu_email@seu_email.com
+Subject: IP externo do raspberry mudou!
+From: seu_email@seu_email.com
+
+O novo IP do raspberry é: 192.168.1.123
