@@ -11,7 +11,7 @@ Após a instalação do pacote, configurar o `/etc/ssmtp/ssmtp.conf` de acordo c
 
 ## Observações:
 1. O ip que está contido nos arquivos é apenas um IP dummy, ao executar o script ele irá se atualizar automaticamente.
-2. Não esquecer de inserir seu email corretamente dentro do email.txt e ip_externo.sh
+2. Não esquecer de inserir seu email corretamente dentro do **email.txt**
 3. Executar o script na mesma pasta que os outros arquivos, caso não queira, mude os diretorios correspondentes dentro do script. 
 ## Uso:
 Executar o script `ip_externo.sh`
