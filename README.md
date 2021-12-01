@@ -1,5 +1,7 @@
 # Shell-Monitorar-IP-externo
-Shell script para monitorar o IP externo de um dispositivo, e caso mude irá enviar por email o novo IP
+Shell script para monitorar o IP externo de um dispositivo. 
+
+Se o IP do dispositivo mudar, irá enviar por email o novo IP.
 
 ## Dependências:
 
